@@ -46,7 +46,7 @@ These libraries are installed within the notebook using `!pip install`.
 2.  Ensure you have a Google Drive account connected if you plan to save results, or change the lines of code where indicated to your location.
 3.  Run the cells.
 
-## Key Concepts Explored
+## Key Concepts
 
 -   **Variational Quantum Sensing (VQS):** Utilizing quantum circuits with trainable parameters for sensing and estimation tasks.
 -   **Quantum-Classical Hybrid Models:** Combining a variational quantum sensing probe with classical computational resources.
